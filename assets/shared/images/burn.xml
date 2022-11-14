@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="burn.png">
+<SubTexture name="burnfall0000" x="815" y="0" width="206" height="211" frameX="-79" frameY="-123" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0001" x="815" y="0" width="206" height="211" frameX="0" frameY="0" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0002" x="815" y="0" width="206" height="211" frameX="0" frameY="0" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0003" x="815" y="211" width="205" height="211" frameX="-79" frameY="-126" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0004" x="415" y="439" width="205" height="212" frameX="-79" frameY="-131" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0005" x="0" y="439" width="204" height="213" frameX="-79" frameY="-139" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0006" x="605" y="215" width="203" height="214" frameX="-79" frameY="-150" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0007" x="399" y="222" width="200" height="215" frameX="-80" frameY="-167" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0008" x="199" y="222" width="200" height="216" frameX="-79" frameY="-189" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0009" x="0" y="222" width="199" height="217" frameX="-78" frameY="-216" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0010" x="204" y="0" width="203" height="221" frameX="-79" frameY="-251" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0011" x="0" y="0" width="204" height="222" frameX="-83" frameY="-294" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0012" x="605" y="0" width="210" height="215" frameX="-80" frameY="-350" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0013" x="420" y="652" width="209" height="208" frameX="-79" frameY="-421" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0014" x="629" y="652" width="210" height="208" frameX="-78" frameY="-494" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0015" x="1021" y="411" width="215" height="200" frameX="-76" frameY="-578" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0016" x="0" y="863" width="221" height="203" frameX="-75" frameY="-675" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0017" x="207" y="652" width="213" height="210" frameX="-79" frameY="-785" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0018" x="0" y="652" width="207" height="211" frameX="-80" frameY="-906" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0019" x="407" y="0" width="198" height="218" frameX="-91" frameY="-1043" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0020" x="204" y="439" width="211" height="213" frameX="-78" frameY="-1200" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0021" x="1021" y="207" width="213" height="204" frameX="-78" frameY="-1375" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0022" x="1021" y="0" width="219" height="207" frameX="-72" frameY="-1556" frameWidth="342" frameHeight="1975" />
+<SubTexture name="burnfall0023" x="815" y="422" width="206" height="211" frameX="-79" frameY="-1761" frameWidth="342" frameHeight="1975" />
+</TextureAtlas>
