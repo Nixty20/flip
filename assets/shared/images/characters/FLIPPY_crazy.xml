@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FLIPPY_crazy.png">
+<SubTexture name="FLP3 Alt Idle0000" x="0" y="2000" width="793" height="621" frameX="-4" frameY="-2" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt Idle0001" x="0" y="2000" width="793" height="621" frameX="-4" frameY="-2" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt Idle0002" x="793" y="2000" width="761" height="619" frameX="-6" frameY="-4" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt Idle0003" x="793" y="2000" width="761" height="619" frameX="-6" frameY="-4" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt Idle0004" x="2775" y="0" width="759" height="615" frameX="-17" frameY="-8" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt Idle0005" x="2775" y="0" width="759" height="615" frameX="-17" frameY="-8" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt Idle0006" x="0" y="2621" width="771" height="615" frameX="-17" frameY="-8" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt Idle0007" x="0" y="2621" width="771" height="615" frameX="-17" frameY="-8" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 Alt M DOWN0000" x="1537" y="2621" width="855" height="612" frameX="-12" frameY="0" frameWidth="867" frameHeight="612" />
+<SubTexture name="FLP3 Alt M DOWN0001" x="1537" y="2621" width="855" height="612" frameX="-12" frameY="0" frameWidth="867" frameHeight="612" />
+<SubTexture name="FLP3 Alt M DOWN0002" x="2392" y="2621" width="831" height="603" frameX="0" frameY="-9" frameWidth="867" frameHeight="612" />
+<SubTexture name="FLP3 Alt M DOWN0003" x="2392" y="2621" width="831" height="603" frameX="0" frameY="-9" frameWidth="867" frameHeight="612" />
+<SubTexture name="FLP3 Alt M LEFT0000" x="1882" y="646" width="779" height="634" frameX="0" frameY="0" frameWidth="797" frameHeight="634" />
+<SubTexture name="FLP3 Alt M LEFT0001" x="1882" y="646" width="779" height="634" frameX="0" frameY="0" frameWidth="797" frameHeight="634" />
+<SubTexture name="FLP3 Alt M LEFT0002" x="0" y="1366" width="783" height="634" frameX="-14" frameY="0" frameWidth="797" frameHeight="634" />
+<SubTexture name="FLP3 Alt M LEFT0003" x="0" y="1366" width="783" height="634" frameX="-14" frameY="0" frameWidth="797" frameHeight="634" />
+<SubTexture name="FLP3 Alt M RIGHT0000" x="785" y="710" width="961" height="647" frameX="0" frameY="0" frameWidth="961" frameHeight="647" />
+<SubTexture name="FLP3 Alt M RIGHT0001" x="785" y="710" width="961" height="647" frameX="0" frameY="0" frameWidth="961" frameHeight="647" />
+<SubTexture name="FLP3 Alt M RIGHT0002" x="1882" y="0" width="893" height="646" frameX="-39" frameY="-1" frameWidth="961" frameHeight="647" />
+<SubTexture name="FLP3 Alt M RIGHT0003" x="1882" y="0" width="893" height="646" frameX="-39" frameY="-1" frameWidth="961" frameHeight="647" />
+<SubTexture name="FLP3 Alt M UP0000" x="1105" y="0" width="777" height="659" frameX="0" frameY="-1" frameWidth="820" frameHeight="661" />
+<SubTexture name="FLP3 Alt M UP0001" x="1105" y="0" width="777" height="659" frameX="0" frameY="-1" frameWidth="820" frameHeight="661" />
+<SubTexture name="FLP3 Alt M UP0002" x="0" y="710" width="785" height="656" frameX="-35" frameY="-4" frameWidth="820" frameHeight="661" />
+<SubTexture name="FLP3 Alt M UP0003" x="0" y="710" width="785" height="656" frameX="-35" frameY="-4" frameWidth="820" frameHeight="661" />
+<SubTexture name="FLP3 M DOWN0000" x="1597" y="3236" width="606" height="531" frameX="0" frameY="-21" frameWidth="616" frameHeight="552" />
+<SubTexture name="FLP3 M DOWN0001" x="1597" y="3236" width="606" height="531" frameX="0" frameY="-21" frameWidth="616" frameHeight="552" />
+<SubTexture name="FLP3 M DOWN0002" x="1026" y="3236" width="571" height="545" frameX="-12" frameY="-5" frameWidth="616" frameHeight="552" />
+<SubTexture name="FLP3 M DOWN0003" x="1026" y="3236" width="571" height="545" frameX="-12" frameY="-5" frameWidth="616" frameHeight="552" />
+<SubTexture name="FLP3 M LEFT0000" x="783" y="1366" width="530" height="631" frameX="0" frameY="-11" frameWidth="566" frameHeight="642" />
+<SubTexture name="FLP3 M LEFT0001" x="783" y="1366" width="530" height="631" frameX="0" frameY="-11" frameWidth="566" frameHeight="642" />
+<SubTexture name="FLP3 M LEFT0002" x="1313" y="1366" width="504" height="626" frameX="-61" frameY="-16" frameWidth="566" frameHeight="642" />
+<SubTexture name="FLP3 M LEFT0003" x="1313" y="1366" width="504" height="626" frameX="-61" frameY="-16" frameWidth="566" frameHeight="642" />
+<SubTexture name="FLP3 M RIGHT0000" x="2775" y="1229" width="629" height="589" frameX="-24" frameY="0" frameWidth="653" frameHeight="589" />
+<SubTexture name="FLP3 M RIGHT0001" x="2775" y="1229" width="629" height="589" frameX="-24" frameY="0" frameWidth="653" frameHeight="589" />
+<SubTexture name="FLP3 M RIGHT0002" x="2775" y="1818" width="602" height="586" frameX="0" frameY="-2" frameWidth="653" frameHeight="589" />
+<SubTexture name="FLP3 M RIGHT0003" x="2775" y="1818" width="602" height="586" frameX="0" frameY="-2" frameWidth="653" frameHeight="589" />
+<SubTexture name="FLP3 M UP0000" x="0" y="0" width="532" height="710" frameX="-16" frameY="-1" frameWidth="589" frameHeight="712" />
+<SubTexture name="FLP3 M UP0001" x="0" y="0" width="532" height="710" frameX="-16" frameY="-1" frameWidth="589" frameHeight="712" />
+<SubTexture name="FLP3 M UP0002" x="532" y="0" width="573" height="703" frameX="0" frameY="-8" frameWidth="589" frameHeight="712" />
+<SubTexture name="FLP3 M UP0003" x="532" y="0" width="573" height="703" frameX="0" frameY="-8" frameWidth="589" frameHeight="712" />
+<SubTexture name="FLP3 fadein0000" x="2203" y="3236" width="522" height="512" frameX="-275" frameY="-111" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadein0001" x="1817" y="1366" width="786" height="623" frameX="0" frameY="0" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadein0002" x="1554" y="2000" width="761" height="619" frameX="-6" frameY="-4" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadein0003" x="2775" y="615" width="746" height="614" frameX="-16" frameY="-9" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadein0004" x="2775" y="0" width="759" height="615" frameX="-16" frameY="-9" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadein0005" x="771" y="2621" width="766" height="615" frameX="-17" frameY="-8" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadein0006" x="0" y="2621" width="771" height="615" frameX="-17" frameY="-8" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadein0007" x="0" y="2621" width="771" height="615" frameX="-17" frameY="-8" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadeout0000" x="0" y="3236" width="513" height="561" frameX="-275" frameY="-63" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 fadeout0001" x="0" y="3236" width="513" height="561" frameX="-275" frameY="-63" frameWidth="797" frameHeight="624" />
+<SubTexture name="FLP3 idle0000" x="2725" y="3236" width="523" height="512" frameX="-2" frameY="-72" frameWidth="525" frameHeight="585" />
+<SubTexture name="FLP3 idle0001" x="2725" y="3236" width="523" height="512" frameX="-2" frameY="-72" frameWidth="525" frameHeight="585" />
+<SubTexture name="FLP3 idle0002" x="3534" y="584" width="495" height="552" frameX="0" frameY="-32" frameWidth="525" frameHeight="585" />
+<SubTexture name="FLP3 idle0003" x="3534" y="584" width="495" height="552" frameX="0" frameY="-32" frameWidth="525" frameHeight="585" />
+<SubTexture name="FLP3 idle0004" x="3534" y="0" width="502" height="584" frameX="-1" frameY="0" frameWidth="525" frameHeight="585" />
+<SubTexture name="FLP3 idle0005" x="3534" y="0" width="502" height="584" frameX="-1" frameY="0" frameWidth="525" frameHeight="585" />
+<SubTexture name="FLP3 idle0006" x="513" y="3236" width="513" height="560" frameX="-2" frameY="-24" frameWidth="525" frameHeight="585" />
+<SubTexture name="FLP3 idle0007" x="513" y="3236" width="513" height="560" frameX="-2" frameY="-24" frameWidth="525" frameHeight="585" />
+</TextureAtlas>
